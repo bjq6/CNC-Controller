@@ -1,0 +1,1329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LED_",
+				"LED_GPSET"
+			],
+			[
+				"attitud",
+				"attitude_t"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"Simple",
+				"Simple4ChannelAircraft"
+			],
+			[
+				"mouse_re",
+				"mouse_rel_move〔function〕"
+			],
+			[
+				"launc",
+				"launch_kodi〔function〕"
+			],
+			[
+				"getC",
+				"getCurrentWindow〔function〕"
+			],
+			[
+				"lauc",
+				"launch_kodi〔function〕"
+			],
+			[
+				"key",
+				"key_change〔function〕"
+			],
+			[
+				"launch",
+				"launch_maps〔function〕"
+			],
+			[
+				"mouse",
+				"mouse_rel_x_y〔function〕"
+			],
+			[
+				"getCurre",
+				"getCurrentWindowId"
+			],
+			[
+				"laun",
+				"launch_maps〔function〕"
+			],
+			[
+				"read",
+				"ready_f〔variable〕"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"right",
+				"right_servo"
+			],
+			[
+				"lef",
+				"left_servo"
+			],
+			[
+				"pw",
+				"pwr_com"
+			],
+			[
+				"pwr",
+				"pwr_diff"
+			],
+			[
+				"SErv",
+				"ServoCtrl"
+			],
+			[
+				"set",
+				"setServoLimits_us"
+			],
+			[
+				"chann",
+				"channel_mixer"
+			],
+			[
+				"change",
+				"changeControlSource"
+			],
+			[
+				"ait",
+				"aircraft_orientation_e"
+			],
+			[
+				"ai",
+				"aircraft_state_t"
+			],
+			[
+				"air",
+				"aircraft_orientation_e"
+			],
+			[
+				"ch",
+				"chmx"
+			],
+			[
+				"Airlink",
+				"AirlinkInterface"
+			],
+			[
+				"write",
+				"writeByte"
+			],
+			[
+				"snsr",
+				"snsr_imu"
+			],
+			[
+				"imu_",
+				"imu_scaled_t"
+			],
+			[
+				"ACC",
+				"ACCEL_FS_RANGE"
+			],
+			[
+				"p_led",
+				"p_LED_IND_2"
+			],
+			[
+				"pre",
+				"prev_hb_val"
+			],
+			[
+				"wr",
+				"writeStr"
+			],
+			[
+				"ADR_",
+				"ADR_STATUS"
+			],
+			[
+				"ori",
+				"aircraft_orientation_q"
+			],
+			[
+				"i2c",
+				"I2CBus"
+			],
+			[
+				"conn",
+				"connected"
+			],
+			[
+				"MS",
+				"test_ms4525do"
+			],
+			[
+				"t_",
+				"T_BITCNT"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"get",
+				"getDiffPressure"
+			],
+			[
+				"num",
+				"num_dev"
+			],
+			[
+				"ui",
+				"uint8_t"
+			],
+			[
+				"PROP",
+				"PROPGCC_V"
+			],
+			[
+				"ppm",
+				"ppm_val_max"
+			],
+			[
+				"ppm_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"PPM_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"PP_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"chan",
+				"channel_mixer"
+			],
+			[
+				"PPM",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"channel",
+				"ChannelMixer"
+			],
+			[
+				"test",
+				"test_ppm"
+			],
+			[
+				"pri",
+				"print_result"
+			],
+			[
+				"ppm_p",
+				"ppm_pulse_times"
+			],
+			[
+				"servi",
+				"servo_pulse_times"
+			],
+			[
+				"CHANNE",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"pulse",
+				"pulse_time"
+			],
+			[
+				"Chan",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"contro",
+				"control_times"
+			],
+			[
+				"contr",
+				"control_times"
+			],
+			[
+				"control",
+				"controlToPercent"
+			],
+			[
+				"Chn",
+				"ChannelMix"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"dis",
+				"displayUpdateStart"
+			],
+			[
+				"updateS",
+				"updateDisplayText"
+			],
+			[
+				"is",
+				"isHoming"
+			],
+			[
+				"RESET",
+				"Resetpin"
+			],
+			[
+				"fd",
+				"fd_rate"
+			],
+			[
+				"incr",
+				"incrStr"
+			],
+			[
+				"time",
+				"time_a"
+			],
+			[
+				"gcode",
+				"gcode_str"
+			],
+			[
+				"gco",
+				"gcode_str"
+			],
+			[
+				"inc",
+				"incrSetting"
+			],
+			[
+				"TXT",
+				"TXT_FG_COLOR"
+			],
+			[
+				"fdseria",
+				"fdserial_open"
+			],
+			[
+				"count",
+				"count_prev"
+			],
+			[
+				"ENC",
+				"p_ENC_A"
+			],
+			[
+				"serv",
+				"servo_pulse_times"
+			],
+			[
+				"servo",
+				"servo_pulse_times"
+			],
+			[
+				"data",
+				"data_ret_temp"
+			],
+			[
+				"servoi",
+				"servo_pulse_times_2"
+			],
+			[
+				"_load_",
+				"_load_start_servo_cog"
+			],
+			[
+				"start",
+				"start_pin_mask"
+			],
+			[
+				"star",
+				"start_pin"
+			],
+			[
+				"zone",
+				"zone_masks"
+			],
+			[
+				"ser",
+				"servo_pulse_times"
+			],
+			[
+				"pp",
+				"ppm_par"
+			],
+			[
+				"stac",
+				"stack_ppm"
+			],
+			[
+				"wait",
+				"waitForBlank"
+			],
+			[
+				"GPL",
+				"GPLED_4"
+			],
+			[
+				"GPLE",
+				"GPLED_3"
+			],
+			[
+				"GPLEd",
+				"GPLED_2"
+			],
+			[
+				"l1",
+				"l1Text〔variable〕"
+			],
+			[
+				"parse",
+				"parsedInf〔variable〕"
+			],
+			[
+				"xbm",
+				"xbmcgui〔module〕"
+			],
+			[
+				"par",
+				"parsedInf〔variable〕"
+			],
+			[
+				"list",
+				"listCtrl〔variable〕"
+			],
+			[
+				"p_SERa",
+				"P_SERIAL_TX"
+			],
+			[
+				"P_ser",
+				"P_SERIAL_RX"
+			],
+			[
+				"P_SER",
+				"p_SERIAL_TX"
+			],
+			[
+				"camd",
+				"candumpFile〔variable〕"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"canpol",
+				"canpollCfgFile〔variable〕"
+			],
+			[
+				"ADR_AD",
+				"ADR_ADC_0"
+			],
+			[
+				"i2c_",
+				"i2c_writeByte"
+			],
+			[
+				"decod",
+				"decodeEncoder"
+			],
+			[
+				"MAX",
+				"MAX_X"
+			],
+			[
+				"decode",
+				"decodeTouch"
+			],
+			[
+				"CAN_ID_EN",
+				"CAN_ID_INIT_ENCODER"
+			],
+			[
+				"init",
+				"initEncoder"
+			],
+			[
+				"CAN_ID_",
+				"CAN_ID_ENC_RESPONSE"
+			],
+			[
+				"CAN_ID",
+				"CAN_ID_BTN_JOYSTICK"
+			],
+			[
+				"wea",
+				"weatherData〔variable〕"
+			],
+			[
+				"irra",
+				"irradianceVals〔variable〕"
+			],
+			[
+				"curren",
+				"currentDay〔variable〕"
+			],
+			[
+				"curr",
+				"currentDay〔variable〕"
+			],
+			[
+				"voltage",
+				"voltageData〔variable〕"
+			],
+			[
+				"volta",
+				"voltageData〔variable〕"
+			],
+			[
+				"irrad",
+				"irradianceVals〔variable〕"
+			],
+			[
+				"days",
+				"dayStrs"
+			],
+			[
+				"split",
+				"splitISOTime"
+			],
+			[
+				"del",
+				"delimiter"
+			],
+			[
+				"temp",
+				"tempVals〔variable〕"
+			],
+			[
+				"we",
+				"weatherDataIdx〔variable〕"
+			],
+			[
+				"index",
+				"indexForHour〔function〕"
+			],
+			[
+				"hou",
+				"hours〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rpi_test.c",
+			"settings":
+			{
+				"buffer_size": 1524,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-interrupts.c",
+			"settings":
+			{
+				"buffer_size": 413,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-gpio.h",
+			"settings":
+			{
+				"buffer_size": 7153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-gpio.c",
+			"settings":
+			{
+				"buffer_size": 489,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-interrupts.h",
+			"settings":
+			{
+				"buffer_size": 1563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-base.h",
+			"settings":
+			{
+				"buffer_size": 481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"bui",
+				"Build: Build"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project"
+	],
+	"file_history":
+	[
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-gpio.h",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-systimer.c",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-systimer.h",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-gpio.c",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-armtimer.c",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-armtimer.h",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-interrupts.c",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-interrupts.h",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi_test.c",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/Makefile",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi-base.h",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/vectors.s",
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi_test_project.sublime-project",
+		"/Users/Nikita/Dropbox (Personal)/School/2017/Spring/ECE5725/final_project/rpi-bm-test/Makefile",
+		"/Users/Nikita/Github/aviato/propeller/aviato.cpp",
+		"/Users/Nikita/Github/ECE5725/lab4/sort_test_2.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/sort_test_1.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/c_square-1.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/freq_test.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/cycletest-2.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/cyclictest-1.txt",
+		"/Users/Nikita/Desktop/Cadence/IC_README",
+		"/Users/Nikita/Github/ECE5725/lab3/blink.py",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Simple_4ch.cpp",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Simple_4ch.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Aircraft.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Aircraft.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/i2cdev.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/simple_4ch.h",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/service.py",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/plan.txt",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/propcan_test/mcp2515.cpp",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/odroid setup process",
+		"/Users/Nikita/Downloads/_2016-10-24_Arduino.ino",
+		"/Users/Nikita/Github/aviato/propeller/aviato.sublime-project",
+		"/Users/Nikita/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Nikita/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/pins.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/maze_mapper.ino",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/PIDController.cpp",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/PIDController.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/ServoCtrl.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/ServoCtrl.cpp",
+		"/Users/Nikita/Github/aviato/propeller/AirlinkInterface.cpp",
+		"/Users/Nikita/Github/CLIP-FW-C/encoder.c",
+		"/Users/Nikita/Github/CLIP-FW-C/proppath.mak",
+		"/Users/Nikita/Github/aviato/propeller/ppm.h",
+		"/Users/Nikita/Github/aviato/propeller/ChannelMixer.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/4525do.h",
+		"/Users/Nikita/Github/aviato/propeller/i2cbus.cpp",
+		"/Users/Nikita/Github/aviato/propeller/airlink.h",
+		"/Users/Nikita/Github/aviato/propeller/airlink.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/ltc2990.h",
+		"/Users/Nikita/Github/aviato/propeller/drivers/sentral.h",
+		"/Users/Nikita/Github/aviato/propeller/global.h",
+		"/Users/Nikita/Github/aviato/propeller/Makefile",
+		"/Users/Nikita/Github/aviato/propeller/drivers/4525do.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/ltc2990.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/sentral.cpp",
+		"/Users/Nikita/Github/aviato/propeller/ppm.c",
+		"/Users/Nikita/Github/aviato/propeller/i2cbus.h",
+		"/Users/Nikita/Github/aviato/propeller/types.h",
+		"/Users/Nikita/Github/aviato/propeller/ChannelMixer.h",
+		"/Users/Nikita/Github/aviato/propeller/Channel.h",
+		"/Users/Nikita/Github/aviato/propeller/util/i2c.c",
+		"/Users/Nikita/Github/aviato/propeller/util/i2c.h"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"(",
+			"\"",
+			"false",
+			"mcp2525",
+			"jm_mcp2515",
+			"propeller",
+			";\n",
+			"PPM_VAL_MIN",
+			"PPM_VAL_MAX",
+			"writeChar(ser, 0)",
+			"writeCha",
+			"fxn",
+			"axi",
+			"_Colo",
+			"_Color",
+			"back",
+			"move",
+			"width",
+			"font",
+			"putstring",
+			"char",
+			"115200",
+			"background",
+			"circle",
+			"draw_cir",
+			"Stradd",
+			"cmd_gfx_be",
+			"Reset",
+			"enc_par",
+			"Rxpin",
+			"Ulcd_sk__32ptu_v2_0",
+			"ser",
+			"full",
+			"/sdcard/navit/osd_graphics",
+			"navi",
+			"naviga",
+			"count",
+			"LOAD_DATA",
+			"load",
+			"MODE",
+			"ENABLE",
+			"RESET",
+			"clk",
+			"n",
+			"selected",
+			"printf(",
+			"02x",
+			"timeToDe",
+			"9",
+			"print",
+			"append",
+			"print",
+			"getEn",
+			"tempVals",
+			"timeTo",
+			"getVals",
+			"print",
+			"set_ylim",
+			"energyMwh",
+			"python",
+			"servo_update_cnt",
+			"setupADServo",
+			"p_ad_servo",
+			"16",
+			"writeStr",
+			"p_dbg_led3;",
+			"SKIP_IMU",
+			"simpleterm",
+			"status",
+			"fast_sqrt",
+			"int_math",
+			"sqrt",
+			"SL32_INTENgine",
+			"simpleterm_ope",
+			"elf",
+			"waveTable",
+			"_cogmem",
+			"buffer",
+			"getIntStatus",
+			"outa",
+			"reset",
+			"malloc",
+			"MPU6050_DMP_MEMORY_CHUNK_SIZE",
+			"writeProgMemoryBlock",
+			"DIRA",
+			"_cogmem",
+			"static",
+			"malloc",
+			"dmpGetQuaternionFloat",
+			"set_roll",
+			"set_pitch",
+			"CPP",
+			"cpp",
+			"dmpIni",
+			"dmpI",
+			"byte",
+			"int32_t Out",
+			"in32_t Out",
+			"wavetable",
+			"clkfreq",
+			"vec3",
+			"vec2",
+			"vec3",
+			"readWord",
+			"writeWord",
+			"dmpPacketSize",
+			"dmpGetFIFOPacketSize",
+			"fifo",
+			"getFIFOCount",
+			"accelgyro",
+			"setxgyrooffse",
+			"useProgMem",
+			"writeDMPConfigurationSet",
+			"writeProgDMPConfigurationSet",
+			"pgm_read_byte",
+			"xgOffset",
+			"delay",
+			"println",
+			"DEBUG_PRINTLN",
+			"pgm_read_byte",
+			"writeMemoryBlock",
+			"I2Cdev::",
+			"read",
+			"pwr",
+			"int8_t",
+			"uint8_t",
+			"uint16_t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rpi_test.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1508,
+								1508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rpi-interrupts.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rpi-gpio.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2094,
+								2094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "rpi-gpio.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "rpi-interrupts.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1192,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rpi-base.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "rpi_test_project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gim",
+				"gimbal.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

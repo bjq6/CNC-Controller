@@ -1,0 +1,1174 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LED_",
+				"LED_GPSET"
+			],
+			[
+				"attitud",
+				"attitude_t"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"Simple",
+				"Simple4ChannelAircraft"
+			],
+			[
+				"mouse_re",
+				"mouse_rel_move〔function〕"
+			],
+			[
+				"launc",
+				"launch_kodi〔function〕"
+			],
+			[
+				"getC",
+				"getCurrentWindow〔function〕"
+			],
+			[
+				"lauc",
+				"launch_kodi〔function〕"
+			],
+			[
+				"key",
+				"key_change〔function〕"
+			],
+			[
+				"launch",
+				"launch_maps〔function〕"
+			],
+			[
+				"mouse",
+				"mouse_rel_x_y〔function〕"
+			],
+			[
+				"getCurre",
+				"getCurrentWindowId"
+			],
+			[
+				"laun",
+				"launch_maps〔function〕"
+			],
+			[
+				"read",
+				"ready_f〔variable〕"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"right",
+				"right_servo"
+			],
+			[
+				"lef",
+				"left_servo"
+			],
+			[
+				"pw",
+				"pwr_com"
+			],
+			[
+				"pwr",
+				"pwr_diff"
+			],
+			[
+				"SErv",
+				"ServoCtrl"
+			],
+			[
+				"set",
+				"setServoLimits_us"
+			],
+			[
+				"chann",
+				"channel_mixer"
+			],
+			[
+				"change",
+				"changeControlSource"
+			],
+			[
+				"ait",
+				"aircraft_orientation_e"
+			],
+			[
+				"ai",
+				"aircraft_state_t"
+			],
+			[
+				"air",
+				"aircraft_orientation_e"
+			],
+			[
+				"ch",
+				"chmx"
+			],
+			[
+				"Airlink",
+				"AirlinkInterface"
+			],
+			[
+				"write",
+				"writeByte"
+			],
+			[
+				"snsr",
+				"snsr_imu"
+			],
+			[
+				"imu_",
+				"imu_scaled_t"
+			],
+			[
+				"ACC",
+				"ACCEL_FS_RANGE"
+			],
+			[
+				"p_led",
+				"p_LED_IND_2"
+			],
+			[
+				"pre",
+				"prev_hb_val"
+			],
+			[
+				"wr",
+				"writeStr"
+			],
+			[
+				"ADR_",
+				"ADR_STATUS"
+			],
+			[
+				"ori",
+				"aircraft_orientation_q"
+			],
+			[
+				"i2c",
+				"I2CBus"
+			],
+			[
+				"conn",
+				"connected"
+			],
+			[
+				"MS",
+				"test_ms4525do"
+			],
+			[
+				"t_",
+				"T_BITCNT"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"get",
+				"getDiffPressure"
+			],
+			[
+				"num",
+				"num_dev"
+			],
+			[
+				"ui",
+				"uint8_t"
+			],
+			[
+				"PROP",
+				"PROPGCC_V"
+			],
+			[
+				"ppm",
+				"ppm_val_max"
+			],
+			[
+				"ppm_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"PPM_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"PP_",
+				"PPM_VAL_MIN"
+			],
+			[
+				"chan",
+				"channel_mixer"
+			],
+			[
+				"PPM",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"channel",
+				"ChannelMixer"
+			],
+			[
+				"test",
+				"test_ppm"
+			],
+			[
+				"pri",
+				"print_result"
+			],
+			[
+				"ppm_p",
+				"ppm_pulse_times"
+			],
+			[
+				"servi",
+				"servo_pulse_times"
+			],
+			[
+				"CHANNE",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"pulse",
+				"pulse_time"
+			],
+			[
+				"Chan",
+				"PPM_CHANNEL_COUNT"
+			],
+			[
+				"contro",
+				"control_times"
+			],
+			[
+				"contr",
+				"control_times"
+			],
+			[
+				"control",
+				"controlToPercent"
+			],
+			[
+				"Chn",
+				"ChannelMix"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"dis",
+				"displayUpdateStart"
+			],
+			[
+				"updateS",
+				"updateDisplayText"
+			],
+			[
+				"is",
+				"isHoming"
+			],
+			[
+				"RESET",
+				"Resetpin"
+			],
+			[
+				"fd",
+				"fd_rate"
+			],
+			[
+				"incr",
+				"incrStr"
+			],
+			[
+				"time",
+				"time_a"
+			],
+			[
+				"gcode",
+				"gcode_str"
+			],
+			[
+				"gco",
+				"gcode_str"
+			],
+			[
+				"inc",
+				"incrSetting"
+			],
+			[
+				"TXT",
+				"TXT_FG_COLOR"
+			],
+			[
+				"fdseria",
+				"fdserial_open"
+			],
+			[
+				"count",
+				"count_prev"
+			],
+			[
+				"ENC",
+				"p_ENC_A"
+			],
+			[
+				"serv",
+				"servo_pulse_times"
+			],
+			[
+				"servo",
+				"servo_pulse_times"
+			],
+			[
+				"data",
+				"data_ret_temp"
+			],
+			[
+				"servoi",
+				"servo_pulse_times_2"
+			],
+			[
+				"_load_",
+				"_load_start_servo_cog"
+			],
+			[
+				"start",
+				"start_pin_mask"
+			],
+			[
+				"star",
+				"start_pin"
+			],
+			[
+				"zone",
+				"zone_masks"
+			],
+			[
+				"ser",
+				"servo_pulse_times"
+			],
+			[
+				"pp",
+				"ppm_par"
+			],
+			[
+				"stac",
+				"stack_ppm"
+			],
+			[
+				"wait",
+				"waitForBlank"
+			],
+			[
+				"GPL",
+				"GPLED_4"
+			],
+			[
+				"GPLE",
+				"GPLED_3"
+			],
+			[
+				"GPLEd",
+				"GPLED_2"
+			],
+			[
+				"l1",
+				"l1Text〔variable〕"
+			],
+			[
+				"parse",
+				"parsedInf〔variable〕"
+			],
+			[
+				"xbm",
+				"xbmcgui〔module〕"
+			],
+			[
+				"par",
+				"parsedInf〔variable〕"
+			],
+			[
+				"list",
+				"listCtrl〔variable〕"
+			],
+			[
+				"p_SERa",
+				"P_SERIAL_TX"
+			],
+			[
+				"P_ser",
+				"P_SERIAL_RX"
+			],
+			[
+				"P_SER",
+				"p_SERIAL_TX"
+			],
+			[
+				"camd",
+				"candumpFile〔variable〕"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"canpol",
+				"canpollCfgFile〔variable〕"
+			],
+			[
+				"ADR_AD",
+				"ADR_ADC_0"
+			],
+			[
+				"i2c_",
+				"i2c_writeByte"
+			],
+			[
+				"decod",
+				"decodeEncoder"
+			],
+			[
+				"MAX",
+				"MAX_X"
+			],
+			[
+				"decode",
+				"decodeTouch"
+			],
+			[
+				"CAN_ID_EN",
+				"CAN_ID_INIT_ENCODER"
+			],
+			[
+				"init",
+				"initEncoder"
+			],
+			[
+				"CAN_ID_",
+				"CAN_ID_ENC_RESPONSE"
+			],
+			[
+				"CAN_ID",
+				"CAN_ID_BTN_JOYSTICK"
+			],
+			[
+				"wea",
+				"weatherData〔variable〕"
+			],
+			[
+				"irra",
+				"irradianceVals〔variable〕"
+			],
+			[
+				"curren",
+				"currentDay〔variable〕"
+			],
+			[
+				"curr",
+				"currentDay〔variable〕"
+			],
+			[
+				"voltage",
+				"voltageData〔variable〕"
+			],
+			[
+				"volta",
+				"voltageData〔variable〕"
+			],
+			[
+				"irrad",
+				"irradianceVals〔variable〕"
+			],
+			[
+				"days",
+				"dayStrs"
+			],
+			[
+				"split",
+				"splitISOTime"
+			],
+			[
+				"del",
+				"delimiter"
+			],
+			[
+				"temp",
+				"tempVals〔variable〕"
+			],
+			[
+				"we",
+				"weatherDataIdx〔variable〕"
+			],
+			[
+				"index",
+				"indexForHour〔function〕"
+			],
+			[
+				"hou",
+				"hours〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/*\n\n    Part of the Raspberry-Pi Bare Metal Tutorials\n    Copyright (c) 2013, Brian Sidebotham\n    All rights reserved.\n\n    Redistribution and use in source and binary forms, with or without\n    modification, are permitted provided that the following conditions are met:\n\n    1. Redistributions of source code must retain the above copyright notice,\n        this list of conditions and the following disclaimer.\n\n    2. Redistributions in binary form must reproduce the above copyright notice,\n        this list of conditions and the following disclaimer in the\n        documentation and/or other materials provided with the distribution.\n\n    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n    AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n    ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE\n    LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\n    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\n    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\n    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\n    CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\n    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\n    POSSIBILITY OF SUCH DAMAGE.\n\n*/\n\n#include <string.h>\n#include <stdlib.h>\n\n#include \"rpi-gpio.h\"\n#include \"rpi-armtimer.h\"\n#include \"rpi-systimer.h\"\n#include \"rpi-interrupts.h\"\n\n/** Main function - we'll never return from here */\nvoid kernel_main(unsigned int r0, unsigned int r1, unsigned int atags) {\n    /* Write 1 to the LED init nibble in the Function Select GPIO\n       peripheral register to enable LED pin as an output */\n    RPI_GetGpio()->LED_GPFSEL |= LED_GPFBIT;\n\n    /* Enable the timer interrupt IRQ */\n    RPI_GetIrqController()->Enable_Basic_IRQs = RPI_BASIC_ARM_TIMER_IRQ;\n\n    /* Setup the system timer interrupt */\n    /* Timer frequency = Clk/256 * 0x400 */\n    RPI_GetArmTimer()->Load = 0x400;\n\n    /* Setup the ARM Timer */\n    RPI_GetArmTimer()->Control =\n            RPI_ARMTIMER_CTRL_23BIT |\n            RPI_ARMTIMER_CTRL_ENABLE |\n            RPI_ARMTIMER_CTRL_INT_ENABLE |\n            RPI_ARMTIMER_CTRL_PRESCALE_256;\n\n    /* Enable interrupts! */\n    _enable_interrupts();\n\n    /* Never exit as there is no OS to exit to! */\n    while(1)\n    {\n\n    }\n}\n",
+			"file": "main.c",
+			"file_size": 2491,
+			"file_write_time": 131356535240000000,
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rpi-interrupts.c",
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n//  Part of the Raspberry-Pi Bare Metal Tutorials\n//  Copyright (c) 2013, Brian Sidebotham\n//  All rights reserved.\n//\n//  Redistribution and use in source and binary forms, with or without\n//  modification, are permitted provided that the following conditions are met:\n//\n//  1. Redistributions of source code must retain the above copyright notice,\n//      this list of conditions and the following disclaimer.\n//\n//  2. Redistributions in binary form must reproduce the above copyright notice,\n//      this list of conditions and the following disclaimer in the\n//      documentation and/or other materials provided with the distribution.\n//\n//  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n//  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n//  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n//  ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE\n//  LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\n//  CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\n//  SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\n//  INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\n//  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\n//  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\n//  POSSIBILITY OF SUCH DAMAGE.\n\n\n.section \".text.startup\"\n\n.global _start\n.global _get_stack_pointer\n.global _exception_table\n.global _enable_interrupts\n\n// From the ARM ARM (Architecture Reference Manual). Make sure you get the\n// ARMv5 documentation which includes the ARMv6 documentation which is the\n// correct processor type for the Broadcom BCM2835. The ARMv6-M manuals\n// available on the ARM website are for Cortex-M parts only and are very\n// different.\n//\n// See ARM section A2.2 (Processor Modes)\n\n.equ    CPSR_MODE_USER,         0x10\n.equ    CPSR_MODE_FIQ,          0x11\n.equ    CPSR_MODE_IRQ,          0x12\n.equ    CPSR_MODE_SVR,          0x13\n.equ    CPSR_MODE_ABORT,        0x17\n.equ    CPSR_MODE_UNDEFINED,    0x1B\n.equ    CPSR_MODE_SYSTEM,       0x1F\n\n// See ARM section A2.5 (Program status registers)\n.equ    CPSR_IRQ_INHIBIT,       0x80\n.equ    CPSR_FIQ_INHIBIT,       0x40\n.equ    CPSR_THUMB,             0x20\n\n_start:\n    ldr pc, _reset_h\n    ldr pc, _undefined_instruction_vector_h\n    ldr pc, _software_interrupt_vector_h\n    ldr pc, _prefetch_abort_vector_h\n    ldr pc, _data_abort_vector_h\n    ldr pc, _unused_handler_h\n    ldr pc, _interrupt_vector_h\n    ldr pc, _fast_interrupt_vector_h\n\n_reset_h:                           .word   _reset_\n_undefined_instruction_vector_h:    .word   undefined_instruction_vector\n_software_interrupt_vector_h:       .word   software_interrupt_vector\n_prefetch_abort_vector_h:           .word   prefetch_abort_vector\n_data_abort_vector_h:               .word   data_abort_vector\n_unused_handler_h:                  .word   _reset_\n_interrupt_vector_h:                .word   interrupt_vector\n_fast_interrupt_vector_h:           .word   fast_interrupt_vector\n\n_reset_:\n    // We enter execution in supervisor mode. For more information on\n    // processor modes see ARM Section A2.2 (Processor Modes)\n\n    mov     r0, #0x8000\n    mov     r1, #0x0000\n    ldmia   r0!,{r2, r3, r4, r5, r6, r7, r8, r9}\n    stmia   r1!,{r2, r3, r4, r5, r6, r7, r8, r9}\n    ldmia   r0!,{r2, r3, r4, r5, r6, r7, r8, r9}\n    stmia   r1!,{r2, r3, r4, r5, r6, r7, r8, r9}\n\n    // We're going to use interrupt mode, so setup the interrupt mode\n    // stack pointer which differs to the application stack pointer:\n    // mov r0, #(CPSR_MODE_IRQ | CPSR_IRQ_INHIBIT | CPSR_FIQ_INHIBIT )\n    mov r0, #0xD2\n    msr cpsr_c, r0\n    mov sp, #(63 * 1024 * 1024)\n\n    // Switch back to supervisor mode (our application mode) and\n    // set the stack pointer towards the end of RAM. Remember that the\n    // stack works its way down memory, our heap will work it's way\n    // up memory toward the application stack.\n    // mov r0, #(CPSR_MODE_SVR | CPSR_IRQ_INHIBIT | CPSR_FIQ_INHIBIT )\n    mov r0, #0xD3\n    msr cpsr_c, r0\n\n    // Set the stack pointer at some point in RAM that won't harm us\n    // It's different from the IRQ stack pointer above and no matter\n    // what the GPU/CPU memory split, 64MB is available to the CPU\n    // Keep it within the limits and also keep it aligned to a 32-bit\n    // boundary!\n    mov     sp, #(64 * 1024 * 1024)\n\n    // The c-startup function which we never return from. This function will\n    // initialise the ro data section (most things that have the const\n    // declaration) and initialise the bss section variables to 0 (generally\n    // known as automatics). It'll then call main, which should never return.\n    bl      _cstartup\n\n    // If main does return for some reason, just catch it and stay here.\n_inf_loop:\n    b       _inf_loop\n\n\n_get_stack_pointer:\n    // Return the stack pointer value\n    str     sp, [sp]\n    ldr     r0, [sp]\n\n    // Return from the function\n    mov     pc, lr\n\n\n_enable_interrupts:\n    mrs     r0, cpsr\n    bic     r0, r0, #0x80\n    msr     cpsr_c, r0\n\n    mov     pc, lr\n",
+			"file": "start.S",
+			"file_size": 5188,
+			"file_write_time": 131356540570000000,
+			"settings":
+			{
+				"buffer_size": 5188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Propeller C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Propeller C.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"bui",
+				"Build: Build"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project"
+	],
+	"file_history":
+	[
+		"/Users/Nikita/Github/ECE5725/final_project/rpi_test_project/rpi_test_project.sublime-project",
+		"/Users/Nikita/Dropbox (Personal)/School/2017/Spring/ECE5725/final_project/rpi-bm-test/Makefile",
+		"/Users/Nikita/Github/aviato/propeller/aviato.cpp",
+		"/Users/Nikita/Github/ECE5725/lab4/sort_test_2.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/sort_test_1.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/c_square-1.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/freq_test.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/cycletest-2.txt",
+		"/Users/Nikita/Github/ECE5725/lab4/cyclictest-1.txt",
+		"/Users/Nikita/Desktop/Cadence/IC_README",
+		"/Users/Nikita/Github/ECE5725/lab3/blink.py",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Simple_4ch.cpp",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Simple_4ch.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Aircraft.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/Aircraft.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/i2cdev.h",
+		"/Users/Nikita/Github/aviato/propeller/aircraft/simple_4ch.h",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/service.py",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/plan.txt",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/propcan_test/mcp2515.cpp",
+		"/Users/Nikita/Dropbox (Personal)/BMW Car Computer/v3/odroid setup process",
+		"/Users/Nikita/Downloads/_2016-10-24_Arduino.ino",
+		"/Users/Nikita/Github/aviato/propeller/aviato.sublime-project",
+		"/Users/Nikita/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Nikita/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/pins.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/maze_mapper.ino",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/PIDController.cpp",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/PIDController.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/ServoCtrl.h",
+		"/Users/Nikita/Github/ece3400/src/maze_mapper/ServoCtrl.cpp",
+		"/Users/Nikita/Github/aviato/propeller/AirlinkInterface.cpp",
+		"/Users/Nikita/Github/CLIP-FW-C/encoder.c",
+		"/Users/Nikita/Github/CLIP-FW-C/proppath.mak",
+		"/Users/Nikita/Github/aviato/propeller/ppm.h",
+		"/Users/Nikita/Github/aviato/propeller/ChannelMixer.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/4525do.h",
+		"/Users/Nikita/Github/aviato/propeller/i2cbus.cpp",
+		"/Users/Nikita/Github/aviato/propeller/airlink.h",
+		"/Users/Nikita/Github/aviato/propeller/airlink.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/ltc2990.h",
+		"/Users/Nikita/Github/aviato/propeller/drivers/sentral.h",
+		"/Users/Nikita/Github/aviato/propeller/global.h",
+		"/Users/Nikita/Github/aviato/propeller/Makefile",
+		"/Users/Nikita/Github/aviato/propeller/drivers/4525do.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/ltc2990.cpp",
+		"/Users/Nikita/Github/aviato/propeller/drivers/sentral.cpp",
+		"/Users/Nikita/Github/aviato/propeller/ppm.c",
+		"/Users/Nikita/Github/aviato/propeller/i2cbus.h",
+		"/Users/Nikita/Github/aviato/propeller/types.h",
+		"/Users/Nikita/Github/aviato/propeller/ChannelMixer.h",
+		"/Users/Nikita/Github/aviato/propeller/Channel.h",
+		"/Users/Nikita/Github/aviato/propeller/util/i2c.c",
+		"/Users/Nikita/Github/aviato/propeller/util/i2c.h"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"(",
+			"\"",
+			"false",
+			"mcp2525",
+			"jm_mcp2515",
+			"propeller",
+			";\n",
+			"PPM_VAL_MIN",
+			"PPM_VAL_MAX",
+			"writeChar(ser, 0)",
+			"writeCha",
+			"fxn",
+			"axi",
+			"_Colo",
+			"_Color",
+			"back",
+			"move",
+			"width",
+			"font",
+			"putstring",
+			"char",
+			"115200",
+			"background",
+			"circle",
+			"draw_cir",
+			"Stradd",
+			"cmd_gfx_be",
+			"Reset",
+			"enc_par",
+			"Rxpin",
+			"Ulcd_sk__32ptu_v2_0",
+			"ser",
+			"full",
+			"/sdcard/navit/osd_graphics",
+			"navi",
+			"naviga",
+			"count",
+			"LOAD_DATA",
+			"load",
+			"MODE",
+			"ENABLE",
+			"RESET",
+			"clk",
+			"n",
+			"selected",
+			"printf(",
+			"02x",
+			"timeToDe",
+			"9",
+			"print",
+			"append",
+			"print",
+			"getEn",
+			"tempVals",
+			"timeTo",
+			"getVals",
+			"print",
+			"set_ylim",
+			"energyMwh",
+			"python",
+			"servo_update_cnt",
+			"setupADServo",
+			"p_ad_servo",
+			"16",
+			"writeStr",
+			"p_dbg_led3;",
+			"SKIP_IMU",
+			"simpleterm",
+			"status",
+			"fast_sqrt",
+			"int_math",
+			"sqrt",
+			"SL32_INTENgine",
+			"simpleterm_ope",
+			"elf",
+			"waveTable",
+			"_cogmem",
+			"buffer",
+			"getIntStatus",
+			"outa",
+			"reset",
+			"malloc",
+			"MPU6050_DMP_MEMORY_CHUNK_SIZE",
+			"writeProgMemoryBlock",
+			"DIRA",
+			"_cogmem",
+			"static",
+			"malloc",
+			"dmpGetQuaternionFloat",
+			"set_roll",
+			"set_pitch",
+			"CPP",
+			"cpp",
+			"dmpIni",
+			"dmpI",
+			"byte",
+			"int32_t Out",
+			"in32_t Out",
+			"wavetable",
+			"clkfreq",
+			"vec3",
+			"vec2",
+			"vec3",
+			"readWord",
+			"writeWord",
+			"dmpPacketSize",
+			"dmpGetFIFOPacketSize",
+			"fifo",
+			"getFIFOCount",
+			"accelgyro",
+			"setxgyrooffse",
+			"useProgMem",
+			"writeDMPConfigurationSet",
+			"writeProgDMPConfigurationSet",
+			"pgm_read_byte",
+			"xgOffset",
+			"delay",
+			"println",
+			"DEBUG_PRINTLN",
+			"pgm_read_byte",
+			"writeMemoryBlock",
+			"I2Cdev::",
+			"read",
+			"pwr",
+			"int8_t",
+			"uint8_t",
+			"uint16_t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1465,
+								1465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rpi-interrupts.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 859.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "start.S",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4140,
+								4140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "rpi_test_project.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gim",
+				"gimbal.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
